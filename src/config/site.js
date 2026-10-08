@@ -21,7 +21,7 @@ export const site = {
     website: "https://jackboitrucking.com",
 
     // Make sure this domain email inbox is set up and working.
-    phone: "+1 (912) 555-0148",
+    phone: "+1 (640) 286-8274",
     email: "info@jackboitrucking.com",
 
     address: {
